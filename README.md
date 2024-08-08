@@ -1,0 +1,3 @@
+It's Digital/Analog Clockface with date functionality. 
+Can be switch bettween clockface.
+New features will come..development is under progress...
